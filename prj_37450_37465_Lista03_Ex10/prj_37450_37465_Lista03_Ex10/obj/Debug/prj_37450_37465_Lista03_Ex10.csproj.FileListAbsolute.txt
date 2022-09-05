@@ -1,0 +1,33 @@
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\Desktop\Documents\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\bin\Debug\prj_37450_37465_Lista03_Ex10.exe.config
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\Desktop\Documents\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\bin\Debug\prj_37450_37465_Lista03_Ex10.exe
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\Desktop\Documents\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\bin\Debug\prj_37450_37465_Lista03_Ex10.pdb
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\Desktop\Documents\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.csproj.AssemblyReference.cache
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\Desktop\Documents\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\Desktop\Documents\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.frm_37450_37465_Lista03_Ex10.resources
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\Desktop\Documents\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.Properties.Resources.resources
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\Desktop\Documents\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.csproj.GenerateResource.cache
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\Desktop\Documents\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.csproj.CoreCompileInputs.cache
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\Desktop\Documents\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.exe
+C:\Users\aluno\OneDrive - Etec Centro Paula Souza\Desktop\Documents\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.pdb
+C:\Users\João Vitor\OneDrive\Nova pasta\Área de Trabalho\37450_37465 (1)\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\bin\Debug\prj_37450_37465_Lista03_Ex10.exe.config
+C:\Users\João Vitor\OneDrive\Nova pasta\Área de Trabalho\37450_37465 (1)\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\bin\Debug\prj_37450_37465_Lista03_Ex10.exe
+C:\Users\João Vitor\OneDrive\Nova pasta\Área de Trabalho\37450_37465 (1)\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\bin\Debug\prj_37450_37465_Lista03_Ex10.pdb
+C:\Users\João Vitor\OneDrive\Nova pasta\Área de Trabalho\37450_37465 (1)\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.csproj.AssemblyReference.cache
+C:\Users\João Vitor\OneDrive\Nova pasta\Área de Trabalho\37450_37465 (1)\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Vitor\OneDrive\Nova pasta\Área de Trabalho\37450_37465 (1)\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.frm_37450_37465_Lista03_Ex10.resources
+C:\Users\João Vitor\OneDrive\Nova pasta\Área de Trabalho\37450_37465 (1)\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.Properties.Resources.resources
+C:\Users\João Vitor\OneDrive\Nova pasta\Área de Trabalho\37450_37465 (1)\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.csproj.GenerateResource.cache
+C:\Users\João Vitor\OneDrive\Nova pasta\Área de Trabalho\37450_37465 (1)\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor\OneDrive\Nova pasta\Área de Trabalho\37450_37465 (1)\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.exe
+C:\Users\João Vitor\OneDrive\Nova pasta\Área de Trabalho\37450_37465 (1)\37450_37465\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.pdb
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\37450LISTA03\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\bin\Debug\prj_37450_37465_Lista03_Ex10.exe.config
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\37450LISTA03\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\bin\Debug\prj_37450_37465_Lista03_Ex10.exe
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\37450LISTA03\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\bin\Debug\prj_37450_37465_Lista03_Ex10.pdb
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\37450LISTA03\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.csproj.AssemblyReference.cache
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\37450LISTA03\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\37450LISTA03\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.frm_37450_37465_Lista03_Ex10.resources
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\37450LISTA03\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.Properties.Resources.resources
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\37450LISTA03\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.csproj.GenerateResource.cache
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\37450LISTA03\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.csproj.CoreCompileInputs.cache
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\37450LISTA03\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.exe
+C:\Users\João Vitor\OneDrive - Etec Centro Paula Souza\2sem\PDC\37450LISTA03\prj_37450_37465_Lista03_Ex10\prj_37450_37465_Lista03_Ex10\obj\Debug\prj_37450_37465_Lista03_Ex10.pdb
